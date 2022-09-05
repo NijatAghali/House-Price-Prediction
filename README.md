@@ -12,3 +12,5 @@ Yeniləndi - shows the date if the announcement refreshed in else case the crawl
 Needed Librares
 ------
 * Pandas, numpy, scipy matplotlib, seaborn, sklearn
+
+Accuracy with default parameters was 89 while it was up to 91 with tuning.
