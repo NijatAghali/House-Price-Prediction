@@ -13,4 +13,4 @@ Needed Librares
 ------
 * Pandas, numpy, scipy matplotlib, seaborn, sklearn
 
-Accuracy with default parameters was 89 while it was up to 91 with tuning.
+Accuracy with default parameters was 0.89 while it was up to 0.91 with hyperparameter tuning.XGBoost algorithm is applied to the data. 
